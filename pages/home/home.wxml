@@ -1,0 +1,3 @@
+<!--pages/home/home.wxml-->
+<text class="title">我是首页文本</text>
+<button size="mini">按钮</button>
